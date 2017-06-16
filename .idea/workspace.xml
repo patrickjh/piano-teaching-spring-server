@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15b537b0-5af8-4a9b-a2e6-6d8cf9b8eb18" name="Default" comment="">
-<<<<<<< HEAD
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_devtools_1_5_2_RELEASE.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/piano-teaching-spring-server_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/piano-teaching-spring-server_main.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/piano-teaching-spring-server_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/piano-teaching-spring-server_test.iml" />
-=======
+
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/piano-teaching-spring-server_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/piano-teaching-spring-server_main.iml" />
->>>>>>> 18dfcdb5e4c2b54d78ee57321ee022f4f120fa52
+
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/greeting.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/greeting.html" />
     </list>
