@@ -2,33 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15b537b0-5af8-4a9b-a2e6-6d8cf9b8eb18" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap-theme.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/src/main/resources/static/css/bootstrap.min.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/bootstrap-3.3.7-dist/js/npm.js" afterPath="$PROJECT_DIR$/src/main/resources/static/js/npm.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/bootstrap-3.3.7-dist/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/js/npm.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/static/newStudentForm.html" afterPath="$PROJECT_DIR$/build/resources/main/static/newStudentForm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/js/npm.js" afterPath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/bootstrap-3.3.7-dist/js/npm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/static/newStudentForm.html" afterPath="$PROJECT_DIR$/out/production/piano-teaching-spring-server/static/newStudentForm.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/static/newStudentForm.html" afterPath="$PROJECT_DIR$/src/main/resources/static/newStudentForm.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -72,8 +79,8 @@
       <file leaf-file-name="newStudentForm.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/newStudentForm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="187">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,7 +90,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/greeting.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -1211,12 +1218,12 @@
       <workItem from="1497678472387" duration="399000" />
       <workItem from="1497469615393" duration="563000" />
       <workItem from="1497584357307" duration="186000" />
-      <workItem from="1497680378506" duration="1615000" />
+      <workItem from="1497680378506" duration="1765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6546000" />
+    <option name="totallyTimeSpent" value="6696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="21" y="0" width="864" height="1000" extended-state="0" />
@@ -1239,7 +1246,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32871974" sideWeight="0.4958932" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2756632" sideWeight="0.4958932" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1543,42 +1550,42 @@
         <state relative-caret-position="102">
           <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding>
-            <marker date="1497682026780" expanded="true" signature="105625:105667" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="105625:105685" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="105625:105698" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="105625:105713" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="105748:107986" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="105761:107971" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="105815:106110" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="105834:106095" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="105897:106075" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="105937:106041" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="105958:106019" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106160:106469" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106179:106454" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106256:106434" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106296:106400" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106317:106378" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106520:106785" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106539:106770" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106572:106750" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106612:106716" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106633:106694" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106828:107134" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106847:107119" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106921:107099" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106961:107065" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="106982:107043" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="107185:107557" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="107204:107542" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="107344:107522" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="107384:107488" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="107405:107466" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="107609:107957" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="107628:107942" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="107744:107922" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="107784:107888" ph="..." />
-            <marker date="1497682026780" expanded="true" signature="107805:107866" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="104904:104946" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="104904:104964" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="104904:104977" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="104904:104992" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105027:107265" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105040:107250" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105094:105389" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105113:105374" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105176:105354" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105216:105320" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105237:105298" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105439:105748" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105458:105733" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105535:105713" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105575:105679" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105596:105657" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105799:106064" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105818:106049" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105851:106029" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105891:105995" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="105912:105973" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106107:106413" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106126:106398" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106200:106378" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106240:106344" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106261:106322" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106464:106836" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106483:106821" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106623:106801" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106663:106767" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106684:106745" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106888:107236" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="106907:107221" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="107023:107201" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="107063:107167" ph="..." />
+            <marker date="1497682177310" expanded="true" signature="107084:107145" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1602,15 +1609,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/greeting.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/newStudentForm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
