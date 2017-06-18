@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="piano-teaching-spring-server:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/piano_teaching_spring_server_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="piano-teaching-spring-server/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="piano-teaching-spring-server" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

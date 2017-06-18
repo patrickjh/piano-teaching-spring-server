@@ -1,6 +1,7 @@
 package controllers;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
@@ -11,7 +12,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class NewStudentFormController {
 
     @GetMapping("/")
-    public String newStudentForm() {
+    public String newStudentForm(Model model)
+    {   model.addAttribute(new newStudentForm());
         return "newStudentForm";
     }
 }
