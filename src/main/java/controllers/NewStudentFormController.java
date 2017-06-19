@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class NewStudentFormController {
 
-    @GetMapping("/")
+   // @GetMapping("/")
     public String newStudentForm(Model model)
     {   model.addAttribute(new newStudentForm());
         return "newStudentForm";

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
@@ -11,10 +11,12 @@
 <div class="container">
 
     <h1>Hello! Form will have fields:</h1>
-
-    <form>
+    
+    
+    <!--/*@thymesVar id="newStudentForm" type="controllers"*/-->
+    <form th:object="${newStudentForm}" method="post" action="newStudentForm">
         <div class="form-group">
-            <input type="text" class="form-control" placeholder="Parent's name" />
+            <input type="text" th:field="*{parentsName}" class="form-control" placeholder="Parent's name" />
         </div>
 
         <div class="form-group">
